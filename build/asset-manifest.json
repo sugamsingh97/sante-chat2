@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3a7a063.css",
+    "main.js": "/static/js/main.40d4b634.js",
+    "static/media/caats-desktop.png": "/static/media/caats-desktop.19e6b0d46087d28bfd80.png",
+    "static/media/illustration-home.jpg": "/static/media/illustration-home.f7f81058c17be301f4ee.jpg",
+    "static/media/illu-home-2.png": "/static/media/illu-home-2.7d69b17cba6c1a40720b.png",
+    "static/media/illu-home-1.png": "/static/media/illu-home-1.21ea7bb2529c1bb9e703.png",
+    "static/media/illu-home-4.png": "/static/media/illu-home-4.cc0fb4f0e0e145a4780a.png",
+    "static/media/illu-home-5.png": "/static/media/illu-home-5.045c9923458682430221.png",
+    "static/media/illu-home-3.png": "/static/media/illu-home-3.247aacbed58504601512.png",
+    "static/media/logo.png": "/static/media/logo.2673ff6d86c461a4659d.png",
+    "index.html": "/index.html",
+    "main.b3a7a063.css.map": "/static/css/main.b3a7a063.css.map",
+    "main.40d4b634.js.map": "/static/js/main.40d4b634.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3a7a063.css",
+    "static/js/main.40d4b634.js"
+  ]
+}
